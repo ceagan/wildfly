@@ -1,4 +1,4 @@
-FROM jboss/wildfly:latest
+FROM jboss/wildfly:9.0.2.Final
 
 USER root
 
